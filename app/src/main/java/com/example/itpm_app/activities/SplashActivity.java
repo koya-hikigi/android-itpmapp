@@ -1,4 +1,4 @@
-package com.example.itpm_app.Activities;
+package com.example.itpm_app.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 

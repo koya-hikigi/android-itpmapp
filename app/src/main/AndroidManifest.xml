@@ -9,13 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activities.SplashActivity"></activity>
+        <activity android:name=".activities.SplashActivity"></activity>
         <activity
-            android:name=".Activities.EditActivity"
+            android:name=".activities.EditActivity"
             android:label="@string/title_activity_edit"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name=".Activities.MainActivity"
+            android:name=".activities.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>

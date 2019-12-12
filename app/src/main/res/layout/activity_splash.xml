@@ -4,6 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Activities.SplashActivity">
+    tools:context=".activities.SplashActivity">
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/itpm"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="309dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
